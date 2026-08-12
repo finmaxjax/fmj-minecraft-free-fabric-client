@@ -1,37 +1,88 @@
-# fmj-minecraft-free-fabric-client for 26.2
+# 🫧 FMJ Client
 
-FMJ (Fin Max Jax) — a Minecraft 26.2 utility client built on Fabric. 60+ modules across Combat, Movement, Player, World, Render, and Misc, plus a custom animated HUD, click GUI, keybinds, settings, and config saving.
+### Fin Max Jax • Minecraft 26.2 • Fabric
 
+FMJ is a feature-rich, modular Minecraft utility client built from the ground up for **Minecraft 26.2** using **Fabric**.
 
-minecraft
-minecraft-client
-fabric
-fabricmc
-fabric-mod
-minecraft-mod
-minecraft-1.21
-java
-client-mod
-🎮 Minecraft / Modding
+Designed around a sleek **liquid-glass interface**, FMJ combines a powerful module framework with a polished animated HUD, customizable ClickGUI, persistent configuration, profiles, keybinds, notifications, waypoints, and a growing library of client-side utilities.
 
-minecraft minecraft-java minecraft-client minecraft-mod minecraft-mods minecraft-modding mc-mod mcmod java-minecraft minecraft-tools minecraft-development minecraft-dev minecraft-api minecraft-client-mod
+> **60+ modules. One client. Fully configurable.**
 
-🧵 Fabric
+## ✨ Highlights
 
-fabric fabricmc fabric-api fabric-loader fabric-mod fabric-mods fabric-client fabric-client-mod fabric-development fabric-modding fabric-template fabric-example-mod
+- 🧩 **60+ modular features**
+- 🫧 **Liquid-glass animated ClickGUI**
+- 🎨 Custom themes and accent colours
+- 📊 Fully configurable HUD
+- ⌨️ Per-module keybinds
+- ⚙️ Individual module settings
+- 💾 Persistent JSON configuration
+- 👤 Profile system
+- 🔔 Animated notifications
+- 📍 Waypoints
+- 🚀 Performance utilities
+- 🛠️ Creative & single-player utilities
+- 🧱 Built specifically for Fabric
+- ☕ Java 25
+- 🎮 Minecraft 26.2
 
-🖥️ FMJ Client
+## 📦 Categories
 
-fmj fmj-client fmjclient fmj-minecraft fmj-mod finmaxjax custom-client custom-minecraft-client minecraft-client-project
+| Category | Focus |
+|---|---|
+| ⚔️ Combat | Combat-related client utilities |
+| 🏃 Movement | Movement and mobility utilities |
+| 👤 Player | Player-focused features |
+| 🌎 World | World information and navigation |
+| 👁️ Render | Visual and rendering features |
+| 🧰 Misc | Utilities, configuration and quality-of-life features |
 
-🫧 GUI / Design
+## 🖥️ Interface
 
-clickgui gui minecraft-gui custom-gui liquid-glass glass-ui glassmorphism frosted-glass modern-ui modern-gui animated-gui animated-ui blur-ui transparent-ui dark-ui gaming-ui ui-framework interface
+FMJ's interface is built around a modern **frosted/liquid-glass design**, featuring:
 
-⚙️ Features / Architecture
+- Animated panels
+- Smooth transitions
+- Rounded cards
+- Transparency
+- Blur effects where supported
+- Dynamic accent colours
+- Searchable modules
+- Configurable settings
+- Animated toggles
+- Custom HUD positioning
 
-modular module-system module-manager settings-system config-system json-config profile-system keybinds keybinding hud hud-editor notifications waypoints performance optimization client-utilities utility-mod
+## ⚙️ Configuration
 
-👨‍💻 Development
+FMJ stores configuration locally and supports:
 
-java java-25 gradle gradle-project loom fabric-loom open-source opensource gamedev game-development software-development client-development mod-development
+- Module states
+- Module settings
+- Keybinds
+- HUD layouts
+- HUD settings
+- Waypoints
+- Themes
+- Profiles
+- GUI preferences
+
+## 🧵 Built With
+
+- **Minecraft 26.2**
+- **Fabric**
+- **Fabric API**
+- **Java 25**
+- **Gradle**
+- **Fabric Loom**
+
+## 🚧 Status
+
+FMJ is actively being developed.
+
+New modules, visual improvements, performance work and UI features are continuously being added.
+
+---
+
+**FMJ — Fin Max Jax**
+
+*Built for Minecraft. Designed by FMJ.*
